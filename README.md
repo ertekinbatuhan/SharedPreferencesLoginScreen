@@ -1,6 +1,6 @@
 Giriş için gerekli olan kullanıcı adı ve paraloyı girdiğimizde Ana ekrana gitmiş oluyoruz . Yanlış kullanıcı adı veya parola girersek bizi Toast mesajı karşımıza çıkıyor.
 Verilerimiz yani girdiğimiz kullanıcı adı ve parola SharedPreferences da saklanıyor. Uygulamadan çıkış yap demediğimiz sürece uygulamayı tekrar çalıştırdığımzda Ana ekrana 
-gitmiş oluyoruz. Tekrardan giriş yapmamız gerek kalmıyor . Uygulamadan çıkış yaparsak kullanıcı adı ve parolamız silineceği için tekrardan giriş yapmamız gerekecek.
+gitmiş oluyoruz. Tekrardan giriş yapmamıza gerek kalmıyor . Uygulamadan çıkış yaparsak kullanıcı adı ve parolamız silineceği için tekrardan giriş yapmamız gerekecek.
 
 
 
