@@ -19,9 +19,7 @@ class MainActivity : AppCompatActivity() {
         val otoPassword = shared.getString("password",null)
 
 
-        //Asıl olay bence verileri tekrar girmeden login ekranına uğramadan Main ekrana geçmesi bence
-        //Güzel düşünmek gerek .
-
+        
         if(otoName == "ertekin" && otoPassword == "1234" ){
 
             val intent = Intent(applicationContext,MainEkran::class.java)
